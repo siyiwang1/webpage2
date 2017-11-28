@@ -5,12 +5,8 @@ output:
   html_document:  
     self_contained: no  
     theme: flatly  
+    css: style.css
 navbar:  
   title: "My First Webpage"
   
-html {
-  font-size: 2em;
-  font-family: "Times New Roman";
-  color: white;
-  background-color: hsl(360, 100%, 20%);
-}
+
