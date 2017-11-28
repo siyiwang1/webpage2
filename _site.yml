@@ -1,4 +1,4 @@
-name: "mywebpage"  
+name: "webpage2"  
 author: "siyi wang"  
 output_dir: "docs"  
 output:  
@@ -11,6 +11,6 @@ navbar:
 html {
   font-size: 2em;
   font-family: "Times New Roman";
-  color: dark blue;
+  color: white;
   background-color: hsl(360, 100%, 20%);
 }
