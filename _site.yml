@@ -6,4 +6,11 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage"  
+  title: "My First Webpage"
+  
+html {
+  font-size: 2em;
+  font-family: "Times New Roman";
+  color: dark blue;
+  background-color: hsl(360, 100%, 20%);
+}
