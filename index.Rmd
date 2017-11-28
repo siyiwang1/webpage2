@@ -11,12 +11,11 @@ I work with [Frank](http://supervisor/website)
 
 ![A pangolin, by Bart Wursten](images/syi.jpeg)   
 
-#Study
+#Study    
 
-    2017-Now  MSc in Research Methods of Psychological Science,School Psychology, University of Glasgow
+2017-Now  MSc in Research Methods of Psychological Science,School Psychology, University of Glasgow
 
-
-    2012-2016 BSc in Applied Psychology, School of Education Science and Management,Yunnan Normal University
+2012-2016 BSc in Applied Psychology, School of Education Science and Management,Yunnan Normal University
 
 
 
@@ -28,5 +27,5 @@ Action Observation Network
 Affective priming
 
 
-I can link to [my own main page](CV.docx).
+I can link to [my own main page](My CV.docx).
 
