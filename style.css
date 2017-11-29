@@ -5,12 +5,15 @@ html {
   background-color: blue; 
 }
 h1 {
+  font-size: 1.5em;
   text-align: left;
   color: gray;
 }
 h2{
   font-size: 1.0em;
   color: gray;
+  background-color: red;
+  text-align: center;
 }
 p {
   border: 1px green;
@@ -18,3 +21,7 @@ p {
   line-height: 2;
 }
 
+img {
+  max-width:50%;
+  height: auto;
+}
