@@ -2,9 +2,9 @@ html {
   font-size: 2em;
   font-family: "Times New Roman";
   color: blue;
-  background-color: black; 
+  background-color: green; 
 }
 h1 {
-  text-align: center;
-  color: blue;
+  text-align: left;
+  color: gray;
 }
