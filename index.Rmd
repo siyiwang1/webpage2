@@ -9,7 +9,7 @@ I work with [Frank](http://supervisor/website)
 
 
 
-![A pangolin, by Bart Wursten](images/syi.jpeg)   
+![](images/syi.jpeg)   
 
 #Study    
 
@@ -26,6 +26,11 @@ Action Observation Network
 
 Affective priming
 
+#About me
+[My CV](My CV.docx).
 
-I can link to [my own main page](My CV.docx).
+
+#Contact me
+[Email](2310629w@student.gla.ac.uk)
+[Fackbook](https://www.facebook.com/siyi.wang.319)
 
