@@ -2,7 +2,7 @@ html {
   font-size: 2em;
   font-family: "Times New Roman";
   color: blue;
-  background-color: green; 
+  background-color: blue !important; 
 }
 h1 {
   text-align: left;
