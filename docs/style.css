@@ -11,12 +11,13 @@ h1 {
 }
 h2{
   font-size: 1.0em;
-  color: gray;
+  color: black;
   text-align: center;
 }
 p {
   border: 1px green;
   padding: 10px;
+  font-family: "Times New Roman";
   line-height: 2;
   background-color: navy blue;
 }
