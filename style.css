@@ -12,16 +12,17 @@ h1 {
 h2{
   font-size: 1.0em;
   color: gray;
-  background-color: red;
   text-align: center;
 }
 p {
   border: 1px green;
   padding: 10px;
   line-height: 2;
+  background-color: navy blue;
 }
 
 img {
-  max-width:50%;
+  max-width:30%;
   height: auto;
+  text-align: left;
 }
